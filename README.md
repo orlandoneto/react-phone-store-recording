@@ -1,7 +1,7 @@
 <!-- PROJECT TITLE -->
 <br />
 <p align="center">
-  <h2 align="center">Um simples portfólio feito em Next.js, React.js, Auth0 e MongoDB</h2>
+  <h2 align="center">Uma simples loja virtual de vendas para celular feito React.js e botão de pagamento PayPal</h2>
 </p>
 
 <!-- TABLE OF CONTENTS -->
@@ -9,23 +9,21 @@
 ## Tabela de Conteúdo
 
 - [Sobre o Projeto](#sobre-o-projeto)
-  - [Um simples portfólio feito com as seguintes tecnologias (Next.Js, React.Js, Node.js, Auth0 e MongoDB)](#feito-com)
+  - [Uma simples loja virtual feito em React.Js.](#feito-com)
 
 <!-- ABOUT THE PROJECT -->
 
 ## Sobre o Projeto
 
-Este projeto visa a criação de um portfolio que possa ser utilizado para estudo de novos programadores, utilizando Next JS, React JS, Node JS e autenticação com Auth0 e MongoDB.
+Este projeto mostrar todo poder do React.js em aplicações Web. A criação desse projeto visa ajudar novos programadores no estudo do React JS. OBS: Lembrando que essa aplicação é uma SPA, portanto não terá como fazer SEO para os motores de buscas.
 
 ### Feito Com
 
 Abaixo segue o que foi utilizado na criação deste projeto:
 
-- [Next JS](https://nextjs.org/) - O Next.js é um framework de aplicativos da web gratuito e de código aberto baseado em React.js, Node.js;
 - [React JS](https://pt-br.reactjs.org/) - O React JS é uma biblioteca JavaScript para criar interfaces de usuário em JavaScript;
-- [Node JS](https://nodejs.org/) - Node.js é um interpretador de JavaScript assíncrono com código aberto orientado a eventos, focado em migrar a programação do Javascript do cliente para os servidores;
-- [Auth0](https://auth0.com/) - Auth0 é uma solução flexível para adicionar serviços de autenticação e autorização aos seus aplicativos;
-- [MongoDB](https://www.mongodb.com/) - MongoDB é um software de banco de dados orientado a documentos livre, de código aberto e multiplataforma, escrito na linguagem C++.
+- [Botão de pagamento do PayPal](https://www.paypal.com/br/webapps/mpp/buttons/) - 
+Com um botão de pagamento do PayPal, vender e receber pagamentos na sua loja virtual, por e-mail ou pelas redes sociais fica muito mais prático.
 
  
 
